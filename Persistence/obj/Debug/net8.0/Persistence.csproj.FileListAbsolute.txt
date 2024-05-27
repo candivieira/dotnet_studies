@@ -1,0 +1,15 @@
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
