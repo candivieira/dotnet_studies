@@ -15,3 +15,4 @@ D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Application\obj\Debug\n
 D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Application\obj\Debug\net8.0\refint\Application.dll
 D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Application\obj\Debug\net8.0\Application.pdb
 D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Application\obj\Debug\net8.0\ref\Application.dll
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Application\obj\Debug\net8.0\Application.sourcelink.json

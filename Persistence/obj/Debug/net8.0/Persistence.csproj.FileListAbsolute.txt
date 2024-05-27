@@ -13,3 +13,4 @@ D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\n
 D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
 D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\- Cursos\- Udemy\Net Core and React\demo\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
